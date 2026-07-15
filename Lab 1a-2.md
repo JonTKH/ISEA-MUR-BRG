@@ -49,3 +49,7 @@ Performed DNS lookup which presented this output.
 
 Public IP shown on "https://whatismyipaddress.com/" while private IP shown from "ip a"
 
+<img width="1280" height="800" alt="helloworldcode" src="https://github.com/user-attachments/assets/4e350bb5-aa39-47c1-ac66-55ca122aedd7" />
+<img width="1280" height="800" alt="running hello world code" src="https://github.com/user-attachments/assets/b6d9d395-370b-4f43-afa0-746064065ef5" />
+
+Source code compilation
