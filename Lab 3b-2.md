@@ -1,5 +1,5 @@
 For this lab, we were tasked to setup an additional server on Ubuntu.
-Therefore, I have choosen Docker as my additional server.
+Therefore, I have chosen Docker as my additional server.
 
 <img width="1280" height="800" alt="Lab 3b-2 update and upgrade" src="https://github.com/user-attachments/assets/09aa1c3c-ee55-495f-8bf2-b7fe523b9e03" />
 <img width="1280" height="800" alt="Lab 3b-2 System Prep" src="https://github.com/user-attachments/assets/3bb12a1f-cdbd-4fc1-8539-129d51e8c166" />
